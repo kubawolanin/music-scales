@@ -1,0 +1,37 @@
+[
+  {
+    "value": "snare",
+    "synonyms": [
+      "snare",
+      "snare drum",
+      "high drum"
+    ]
+  },
+  {
+    "value": "tom",
+    "synonyms": [
+      "tom",
+      "tom tom",
+      "rack tom",
+      "thomas"
+    ]
+  },
+  {
+    "value": "floor tom",
+    "synonyms": [
+      "floor tom",
+      "lower drum",
+      "floor",
+      "floortom"
+    ]
+  },
+  {
+    "value": "bass drum",
+    "synonyms": [
+      "bass drum",
+      "kick drum",
+      "bass",
+      "kick"
+    ]
+  }
+]

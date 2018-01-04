@@ -1,0 +1,28 @@
+{
+  "id": "05d22b4e-68a4-4897-87a0-fada63e802c6",
+  "name": "choose_tuning",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513430154,
+  "fallbackIntent": false,
+  "events": []
+}

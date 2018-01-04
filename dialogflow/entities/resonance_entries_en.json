@@ -1,0 +1,44 @@
+[
+  {
+    "value": "low",
+    "synonyms": [
+      "low",
+      "lower",
+      "loose",
+      "small",
+      "less"
+    ]
+  },
+  {
+    "value": "medium",
+    "synonyms": [
+      "medium",
+      "default",
+      "standard",
+      "normal"
+    ]
+  },
+  {
+    "value": "high",
+    "synonyms": [
+      "high",
+      "tight",
+      "more"
+    ]
+  },
+  {
+    "value": "max",
+    "synonyms": [
+      "max",
+      "maximum",
+      "highest",
+      "tense",
+      "big",
+      "huge",
+      "large",
+      "biggest",
+      "largest",
+      "enormous"
+    ]
+  }
+]

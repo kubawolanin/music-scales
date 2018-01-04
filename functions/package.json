@@ -1,0 +1,29 @@
+{
+  "name": "functions",
+  "scripts": {
+    "build": "tslint -p tslint.json && tsc",
+    "serve": "npm run build && firebase serve --only functions",
+    "shell": "npm run build && firebase experimental:functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "@types/sprintf-js": "^1.1.0",
+    "actions-on-google": "^1.7.0",
+    "canvas-prebuilt": "^1.6.5-prerelease.1",
+    "deep-freeze": "0.0.1",
+    "firebase-admin": "^5.4.3",
+    "firebase-functions": "^0.7.1",
+    "sprintf-js": "^1.1.1",
+    "tonal": "^1.1.0",
+    "tonal-detector": "^1.1.0",
+    "vexflow": "^1.2.84"
+  },
+  "devDependencies": {
+    "tslint": "^5.8.0",
+    "typescript": "^2.5.3"
+  },
+  "private": true
+}

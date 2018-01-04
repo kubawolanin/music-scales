@@ -1,0 +1,74 @@
+[
+  {
+    "id": "b483cb3a-42fd-45b0-98d7-c0e8fea4e912",
+    "data": [
+      {
+        "text": "exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512651111
+  },
+  {
+    "id": "fa3d2c64-9bfc-4f8f-ac7c-4aace88c8346",
+    "data": [
+      {
+        "text": "stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512651111
+  },
+  {
+    "id": "33b22210-45f5-43ba-866b-d1b796eec4cd",
+    "data": [
+      {
+        "text": "quit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512651111
+  },
+  {
+    "id": "03202156-5827-4202-86fe-aafce4120e61",
+    "data": [
+      {
+        "text": "bye Drum Tuner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512651111
+  },
+  {
+    "id": "666d3fc9-78cd-4f41-9355-908677ae2dc4",
+    "data": [
+      {
+        "text": "bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512651111
+  },
+  {
+    "id": "5acb3dac-7a1e-4217-ab0e-ce734bb30173",
+    "data": [
+      {
+        "text": "thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512651111
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "id": "0183d8f2-1269-4d39-abb8-b86273c6d452",
+  "name": "Quit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Thanks for using Drum Tuner! See you next time.",
+            "You\u0027re all set! Happy drumming.",
+            "Your drums now should sound fantastic. Enjoy!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512651111,
+  "fallbackIntent": false,
+  "events": []
+}

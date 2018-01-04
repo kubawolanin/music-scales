@@ -1,0 +1,5 @@
+{
+    "mocha.options": {},
+
+    "mocha.files.glob": "functions/test/**/*.js"
+}

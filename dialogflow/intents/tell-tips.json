@@ -1,0 +1,42 @@
+{
+  "id": "77b625bf-0feb-4cf5-b73e-6e893a03e29c",
+  "name": "tell-tips",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "tell-tips-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "When you tune a drum, it\u0027s good to use two drum keys simultaneously.",
+            "When seating the bass drum head, it\u0027s a good practice to stretch it out before tuning.",
+            "When tuning the front head, increase tension in very small increments. Try using a quarter or a half of a turn at a time, no more.",
+            "Whatever style and sound you are trying to achieve, generally a drum will sound best if the batter head is tuned lower (slacker) than the resonant head.",
+            "If you find the overall pitch too low, go back to the bottom head and take it up another pitch level, return to tuning the top head and it will come back into tune with the bottom after a few turns of the rods.",
+            "Whenever detuning or loosening a rod, always end the movement with a slight re-tightening. This enables the rod to \u0027bite\u0027 and hold while getting the others sorted.",
+            "Try using a stool as your tuning base. It\u0027s a great way to dampen the batter head while working on the resonant head and you can (normally) spin the drum round as you go."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512905276,
+  "fallbackIntent": false,
+  "events": []
+}

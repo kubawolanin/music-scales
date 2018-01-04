@@ -1,0 +1,28 @@
+[
+  {
+    "value": "batter",
+    "synonyms": [
+      "batter",
+      "batter head",
+      "upper head",
+      "up head",
+      "batter drum head",
+      "batter drumhead"
+    ]
+  },
+  {
+    "value": "resonant",
+    "synonyms": [
+      "resonant",
+      "resonant head",
+      "resonant drum head",
+      "resonant drumhead",
+      "bottom head",
+      "bottom drum head",
+      "bottom drumhead",
+      "lower drum head",
+      "lower head",
+      "lower drumhead"
+    ]
+  }
+]
