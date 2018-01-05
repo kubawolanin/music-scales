@@ -1,0 +1,610 @@
+[
+  {
+    "value": "lydian",
+    "synonyms": [
+      "lydian"
+    ]
+  },
+  {
+    "value": "major",
+    "synonyms": [
+      "major"
+    ]
+  },
+  {
+    "value": "mixolydian",
+    "synonyms": [
+      "mixolydian",
+      "dominant"
+    ]
+  },
+  {
+    "value": "dorian",
+    "synonyms": [
+      "dorian"
+    ]
+  },
+  {
+    "value": "aeolian",
+    "synonyms": [
+      "aeolian",
+      "minor"
+    ]
+  },
+  {
+    "value": "phrygian",
+    "synonyms": [
+      "phrygian"
+    ]
+  },
+  {
+    "value": "locrian",
+    "synonyms": [
+      "locrian"
+    ]
+  },
+  {
+    "value": "melodic minor",
+    "synonyms": [
+      "melodic minor"
+    ]
+  },
+  {
+    "value": "melodic minor second mode",
+    "synonyms": [
+      "melodic minor second mode"
+    ]
+  },
+  {
+    "value": "lydian augmented",
+    "synonyms": [
+      "lydian augmented"
+    ]
+  },
+  {
+    "value": "lydian dominant",
+    "synonyms": [
+      "lydian dominant",
+      "lydian b7",
+      "lydian be seven",
+      "lydian be 7"
+    ]
+  },
+  {
+    "value": "melodic minor fifth mode",
+    "synonyms": [
+      "melodic minor fifth mode",
+      "hindu",
+      "mixolydian b6",
+      "mixolydian be six",
+      "mixolydian b 6"
+    ]
+  },
+  {
+    "value": "locrian #2",
+    "synonyms": [
+      "locrian #2",
+      "locrian second",
+      "locrian hash two",
+      "locrian sharp  two",
+      "locrian sharp 2"
+    ]
+  },
+  {
+    "value": "locrian major",
+    "synonyms": [
+      "locrian major",
+      "arabian"
+    ]
+  },
+  {
+    "value": "altered",
+    "synonyms": [
+      "altered",
+      "super locrian",
+      "diminished whole tone",
+      "pomeroy"
+    ]
+  },
+  {
+    "value": "major pentatonic",
+    "synonyms": [
+      "major pentatonic",
+      "ionian pentatonic"
+    ]
+  },
+  {
+    "value": "lydian pentatonic",
+    "synonyms": [
+      "lydian pentatonic",
+      "chinese"
+    ]
+  },
+  {
+    "value": "mixolydian pentatonic",
+    "synonyms": [
+      "mixolydian pentatonic",
+      "indian"
+    ]
+  },
+  {
+    "value": "locrian pentatonic",
+    "synonyms": [
+      "locrian pentatonic",
+      "minor seven flat five pentatonic"
+    ]
+  },
+  {
+    "value": "minor pentatonic",
+    "synonyms": [
+      "minor pentatonic"
+    ]
+  },
+  {
+    "value": "minor six pentatonic",
+    "synonyms": [
+      "minor six pentatonic"
+    ]
+  },
+  {
+    "value": "minor hexatonic",
+    "synonyms": [
+      "minor hexatonic"
+    ]
+  },
+  {
+    "value": "flat three pentatonic",
+    "synonyms": [
+      "flat three pentatonic",
+      "kumoi"
+    ]
+  },
+  {
+    "value": "flat six pentatonic",
+    "synonyms": [
+      "flat six pentatonic"
+    ]
+  },
+  {
+    "value": "major flat two pentatonic",
+    "synonyms": [
+      "major flat two pentatonic",
+      "ionian flat two pentatonic"
+    ]
+  },
+  {
+    "value": "whole tone pentatonic",
+    "synonyms": [
+      "whole tone pentatonic"
+    ]
+  },
+  {
+    "value": "ionian pentatonic",
+    "synonyms": [
+      "ionian pentatonic"
+    ]
+  },
+  {
+    "value": "lydian #5 pentatonic",
+    "synonyms": [
+      "lydian #5 pentatonic",
+      "lydian #5P pentatonic",
+      "lydian fifth pentatonic",
+      "lydian five pentatonic",
+      "lydian sharp five pentatonic",
+      "lydian sharp 5 pentatonic",
+      "lydian hash five pentatonic"
+    ]
+  },
+  {
+    "value": "lydian dominant pentatonic",
+    "synonyms": [
+      "lydian dominant pentatonic"
+    ]
+  },
+  {
+    "value": "minor #7 pentatonic",
+    "synonyms": [
+      "minor #7 pentatonic",
+      "minor seven pentatonic",
+      "minor 7 pentatonic",
+      "minor seventh pentatonic",
+      "minor #7M pentatonic",
+      "minor sharp seven pentatonic",
+      "minor # 7 pentatonic",
+      "minor sharp 7 pentatonic"
+    ]
+  },
+  {
+    "value": "super locrian pentatonic",
+    "synonyms": [
+      "super locrian pentatonic"
+    ]
+  },
+  {
+    "value": "in-sen",
+    "synonyms": [
+      "in-sen",
+      "insen",
+      "in sen"
+    ]
+  },
+  {
+    "value": "iwato",
+    "synonyms": [
+      "iwato"
+    ]
+  },
+  {
+    "value": "hirajoshi",
+    "synonyms": [
+      "hirajoshi"
+    ]
+  },
+  {
+    "value": "kumoijoshi",
+    "synonyms": [
+      "kumoijoshi"
+    ]
+  },
+  {
+    "value": "pelog",
+    "synonyms": [
+      "pelog"
+    ]
+  },
+  {
+    "value": "vietnamese 1",
+    "synonyms": [
+      "vietnamese 1",
+      "vietnamese",
+      "vietnamese one",
+      "vietnamese #1",
+      "vietnamese first"
+    ]
+  },
+  {
+    "value": "vietnamese 2",
+    "synonyms": [
+      "vietnamese 2",
+      "vietnamese two",
+      "vietnamese #2",
+      "vietnamese second",
+      "other vietnamese"
+    ]
+  },
+  {
+    "value": "prometheus",
+    "synonyms": [
+      "prometheus"
+    ]
+  },
+  {
+    "value": "prometheus neopolitan",
+    "synonyms": [
+      "prometheus neopolitan"
+    ]
+  },
+  {
+    "value": "ritusen",
+    "synonyms": [
+      "ritusen"
+    ]
+  },
+  {
+    "value": "scriabin",
+    "synonyms": [
+      "scriabin"
+    ]
+  },
+  {
+    "value": "piongio",
+    "synonyms": [
+      "piongio"
+    ]
+  },
+  {
+    "value": "major blues",
+    "synonyms": [
+      "major blues"
+    ]
+  },
+  {
+    "value": "minor blues",
+    "synonyms": [
+      "minor blues",
+      "blues"
+    ]
+  },
+  {
+    "value": "composite blues",
+    "synonyms": [
+      "composite blues"
+    ]
+  },
+  {
+    "value": "augmented",
+    "synonyms": [
+      "augmented"
+    ]
+  },
+  {
+    "value": "augmented heptatonic",
+    "synonyms": [
+      "augmented heptatonic"
+    ]
+  },
+  {
+    "value": "dorian #4",
+    "synonyms": [
+      "dorian #4",
+      "dorian four",
+      "dorian fourth",
+      "dorian 4",
+      "dorian sharp four",
+      "dorian sharp 4",
+      "dorian hash four",
+      "dorian hash 4",
+      "dorian # 4"
+    ]
+  },
+  {
+    "value": "lydian diminished",
+    "synonyms": [
+      "lydian diminished"
+    ]
+  },
+  {
+    "value": "whole tone",
+    "synonyms": [
+      "whole tone"
+    ]
+  },
+  {
+    "value": "leading whole tone",
+    "synonyms": [
+      "leading whole tone"
+    ]
+  },
+  {
+    "value": "harmonic minor",
+    "synonyms": [
+      "harmonic minor",
+      "minor harmonic"
+    ]
+  },
+  {
+    "value": "lydian minor",
+    "synonyms": [
+      "lydian minor"
+    ]
+  },
+  {
+    "value": "neopolitan",
+    "synonyms": [
+      "neopolitan"
+    ]
+  },
+  {
+    "value": "neopolitan minor",
+    "synonyms": [
+      "neopolitan minor"
+    ]
+  },
+  {
+    "value": "neopolitan major",
+    "synonyms": [
+      "neopolitan major",
+      "dorian b2",
+      "dorian be two",
+      "dorian b 2",
+      "Neapolitan Major",
+      "Neapolitan major"
+    ]
+  },
+  {
+    "value": "neopolitan major pentatonic",
+    "synonyms": [
+      "neopolitan major pentatonic",
+      "neopolitan pentatonic"
+    ]
+  },
+  {
+    "value": "romanian minor",
+    "synonyms": [
+      "romanian minor"
+    ]
+  },
+  {
+    "value": "double harmonic lydian",
+    "synonyms": [
+      "double harmonic lydian"
+    ]
+  },
+  {
+    "value": "diminished",
+    "synonyms": [
+      "diminished"
+    ]
+  },
+  {
+    "value": "harmonic major",
+    "synonyms": [
+      "harmonic major",
+      "harmonic"
+    ]
+  },
+  {
+    "value": "double harmonic major",
+    "synonyms": [
+      "double harmonic major",
+      "gypsy"
+    ]
+  },
+  {
+    "value": "egyptian",
+    "synonyms": [
+      "egyptian"
+    ]
+  },
+  {
+    "value": "hungarian minor",
+    "synonyms": [
+      "hungarian minor"
+    ]
+  },
+  {
+    "value": "hungarian major",
+    "synonyms": [
+      "hungarian major",
+      "lydian dominant sharp nine"
+    ]
+  },
+  {
+    "value": "oriental",
+    "synonyms": [
+      "oriental"
+    ]
+  },
+  {
+    "value": "spanish",
+    "synonyms": [
+      "spanish",
+      "phrygian major"
+    ]
+  },
+  {
+    "value": "spanish heptatonic",
+    "synonyms": [
+      "spanish heptatonic"
+    ]
+  },
+  {
+    "value": "flamenco",
+    "synonyms": [
+      "flamenco"
+    ]
+  },
+  {
+    "value": "balinese",
+    "synonyms": [
+      "balinese"
+    ]
+  },
+  {
+    "value": "todi raga",
+    "synonyms": [
+      "todi raga"
+    ]
+  },
+  {
+    "value": "malkos raga",
+    "synonyms": [
+      "malkos raga"
+    ]
+  },
+  {
+    "value": "kafi raga",
+    "synonyms": [
+      "kafi raga"
+    ]
+  },
+  {
+    "value": "purvi raga",
+    "synonyms": [
+      "purvi raga"
+    ]
+  },
+  {
+    "value": "persian",
+    "synonyms": [
+      "persian"
+    ]
+  },
+  {
+    "value": "bebop",
+    "synonyms": [
+      "bebop"
+    ]
+  },
+  {
+    "value": "bebop dominant",
+    "synonyms": [
+      "bebop dominant"
+    ]
+  },
+  {
+    "value": "bebop minor",
+    "synonyms": [
+      "bebop minor"
+    ]
+  },
+  {
+    "value": "bebop major",
+    "synonyms": [
+      "bebop major"
+    ]
+  },
+  {
+    "value": "bebop locrian",
+    "synonyms": [
+      "bebop locrian"
+    ]
+  },
+  {
+    "value": "minor bebop",
+    "synonyms": [
+      "minor bebop"
+    ]
+  },
+  {
+    "value": "mystery #1",
+    "synonyms": [
+      "mystery #1",
+      "mystery sharp one",
+      "mystery sharp 1"
+    ]
+  },
+  {
+    "value": "enigmatic",
+    "synonyms": [
+      "enigmatic"
+    ]
+  },
+  {
+    "value": "minor six diminished",
+    "synonyms": [
+      "minor six diminished"
+    ]
+  },
+  {
+    "value": "ionian augmented",
+    "synonyms": [
+      "ionian augmented"
+    ]
+  },
+  {
+    "value": "lydian #9",
+    "synonyms": [
+      "lydian #9",
+      "lydian nine",
+      "lydian ninth",
+      "lydian nine step",
+      "lydian sharp nine",
+      "lydian hash nine",
+      "lydian sharp 9"
+    ]
+  },
+  {
+    "value": "ichikosucho",
+    "synonyms": [
+      "ichikosucho"
+    ]
+  },
+  {
+    "value": "six tone symmetric",
+    "synonyms": [
+      "six tone symmetric"
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 {
-  "id": "0183d8f2-1269-4d39-abb8-b86273c6d452",
-  "name": "Quit",
+  "id": "6403d7a8-424a-4e75-890a-2760f06e8a21",
+  "name": "quit",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -13,22 +13,28 @@
           "type": 0,
           "lang": "en",
           "speech": [
-            "Thanks for using Drum Tuner! See you next time.",
-            "You\u0027re all set! Happy drumming.",
-            "Your drums now should sound fantastic. Enjoy!"
+            "Thank you! Hope you\u0027ve learned something useful.",
+            "Bye!",
+            "Have a great day!",
+            "Thanks!",
+            "Thanks, bye.",
+            "See you again!",
+            "See you.",
+            "Thanks for using Music Scales. See you next time.",
+            "You\u0027re all set! See you.",
+            "Okay! Bye.",
+            "Okay, thanks for listening!"
           ]
         }
       ],
-      "defaultResponsePlatforms": {
-        "google": true
-      },
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1512651111,
+  "lastUpdate": 1514892936,
   "fallbackIntent": false,
   "events": []
 }

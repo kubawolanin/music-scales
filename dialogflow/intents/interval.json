@@ -1,0 +1,80 @@
+{
+  "id": "20600531-afad-454c-980b-fabefeb89f44",
+  "name": "interval",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "interval",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "948592ec-4dbb-43ee-8598-f80d5337b93a",
+          "required": true,
+          "dataType": "@notes",
+          "name": "root-note",
+          "value": "$root-note",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the root note of the interval?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "e0b1c6a6-b2b9-413c-8675-544c4fc226a7",
+          "required": true,
+          "dataType": "@notes",
+          "name": "target-note",
+          "value": "$target-note",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the target note of the interval?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "158be5fb-2f43-44aa-b20c-4447c66f8f6b",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "root-note-octave",
+          "value": "$root-note-octave",
+          "prompts": [],
+          "defaultValue": "4",
+          "isList": false
+        },
+        {
+          "id": "9f0b4da3-92af-434a-94bd-2664a1f12066",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "target-note-octave",
+          "value": "$target-note-octave",
+          "prompts": [],
+          "defaultValue": "4",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514842454,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -2,3 +2,15 @@ node_modules
 *.DS_store
 *.log
 .firebaserc
+**/*.map
+dialogflow
+firebase.json
+logo.jpg
+creds.data
+french.csv
+test
+functions/lib/index.js.map
+functions/lib/image.js.map
+functions/lib/index.js
+functions/lib/image.js
+functions/lib/config.js

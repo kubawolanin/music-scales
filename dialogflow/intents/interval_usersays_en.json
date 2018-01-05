@@ -1,0 +1,766 @@
+[
+  {
+    "id": "cc9b35e9-bed6-4687-af1a-c2892d885da2",
+    "data": [
+      {
+        "text": "what\u0027s the interval of ",
+        "userDefined": false
+      },
+      {
+        "text": "d sharp",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "root-note-octave",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "e flat",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "target-note-octave",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b13346c1-d2bb-4728-bbf8-a8284148e524",
+    "data": [
+      {
+        "text": "interval between ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "root-note-octave",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "target-note-octave",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aa3d0d21-a38c-4818-a71b-785d72bdcab8",
+    "data": [
+      {
+        "text": "interval between ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "root-note-octave",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "target-note-octave",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da16aa83-c581-47cf-bc99-08ec115f3418",
+    "data": [
+      {
+        "text": "Please tell me what\u0027s the interval between ",
+        "userDefined": false
+      },
+      {
+        "text": "c sharp",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "root-note-octave",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "four",
+        "alias": "target-note-octave",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe4b1079-1fc6-4c07-a5b9-e62e4cb63995",
+    "data": [
+      {
+        "text": "tell me the distance between ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "four",
+        "alias": "root-note-octave",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "five",
+        "alias": "target-note-octave",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "01fb1dc2-fcbf-4f5c-849e-a0ceb4d9c270",
+    "data": [
+      {
+        "text": "what\u0027s interval of ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76f87228-cebc-46f3-82c4-182208bceca8",
+    "data": [
+      {
+        "text": "What\u0027s the distance between ",
+        "userDefined": false
+      },
+      {
+        "text": "A",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "F sharp",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7076f1f-09a7-469c-9cdf-b76333429ced",
+    "data": [
+      {
+        "text": "How many semitones are between ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "g sharp",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9e94c54-d48d-46a3-a7dc-466a97ee44bb",
+    "data": [
+      {
+        "text": "tell me the distance between ",
+        "userDefined": false
+      },
+      {
+        "text": "C",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "C",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c02e0d53-eb12-4090-9f70-b202bcf2e0fd",
+    "data": [
+      {
+        "text": "find an interval between ",
+        "userDefined": false
+      },
+      {
+        "text": "C",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "G sharp",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86682437-04ab-4d7e-a278-66ce173ca89e",
+    "data": [
+      {
+        "text": "intervals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8f2b640-7f9e-4b63-97bb-9f6a21ac8f25",
+    "data": [
+      {
+        "text": "c",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d00ab3cc-2433-4420-b4aa-fb3f6227d81d",
+    "data": [
+      {
+        "text": "d",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c611ded-3aed-46da-98f0-8215061c66f1",
+    "data": [
+      {
+        "text": "interval between ",
+        "userDefined": false
+      },
+      {
+        "text": "C Sharp",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "a flat",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec8980fd-719f-43fc-afe7-c2add3ec3b2e",
+    "data": [
+      {
+        "text": "what interval is ",
+        "userDefined": false
+      },
+      {
+        "text": "c flat",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "19abf447-ddf7-499f-8977-0f86efa9ccd0",
+    "data": [
+      {
+        "text": "tell me the distance between ",
+        "userDefined": false
+      },
+      {
+        "text": "C",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "C",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "14caf7ed-1052-4c42-834b-d57a31332207",
+    "data": [
+      {
+        "text": "What\u0027s the distance between ",
+        "userDefined": false
+      },
+      {
+        "text": "A",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "F sharp",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "34680273-266f-4e3e-a109-4aa2cad68b16",
+    "data": [
+      {
+        "text": "How many semitones are between ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "g sharp",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "423c6a88-782c-4812-903f-002157218a1e",
+    "data": [
+      {
+        "text": "How many semitones is between ",
+        "userDefined": false
+      },
+      {
+        "text": "F",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "G",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "485c13d9-f208-46ae-81e3-7ebe86482866",
+    "data": [
+      {
+        "text": "what\u0027s interval of ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0b68c487-50d8-48a7-b8fe-e8e78af83a1b",
+    "data": [
+      {
+        "text": "Tell me the interval between ",
+        "userDefined": false
+      },
+      {
+        "text": "a flat",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "708f4530-be45-42f5-9419-5b55ae5893af",
+    "data": [
+      {
+        "text": "interval between ",
+        "userDefined": false
+      },
+      {
+        "text": "c flat",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f4a85230-faed-4721-bb54-d7e945e08894",
+    "data": [
+      {
+        "text": "g sharp",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "58a47801-8c54-407f-be29-ec7906d767c7",
+    "data": [
+      {
+        "text": "interval between ",
+        "userDefined": false
+      },
+      {
+        "text": "f sharp",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "g sharp",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68dda077-1359-4405-9ee6-acd6c25b23b6",
+    "data": [
+      {
+        "text": "distance between ",
+        "userDefined": false
+      },
+      {
+        "text": "c flat",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " nad ",
+        "userDefined": false
+      },
+      {
+        "text": "a sharp",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f17b8f60-8c08-4ed6-a3d3-0b793a6850cc",
+    "data": [
+      {
+        "text": "what\u0027s the interval between ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "target-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514842454
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "id": "5fd6d3c9-0a91-40ae-9d91-cafc77ba1085",
+  "name": "note-freq",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "note.freq",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3341d8b2-8fa6-41b4-baea-7aa47fc85975",
+          "required": true,
+          "dataType": "@notes",
+          "name": "note",
+          "value": "$note",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the note you\u0027re looking for?"
+            },
+            {
+              "lang": "en",
+              "value": "I need to know the note and its octave first. What\u0027s the note?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "ca28f45a-8676-40a4-a255-7e300cc682f3",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "octave",
+          "value": "$octave",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "In which octave is $note?"
+            }
+          ],
+          "defaultValue": "4",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515012330,
+  "fallbackIntent": false,
+  "events": []
+}

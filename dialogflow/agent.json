@@ -1,16 +1,42 @@
 {
-  "description": "Tune your drumset in no time! Provide some basics on the drum you want to tune and I\u0027ll respond with the best settings for your drumhead.",
+  "description": "",
   "language": "en",
   "disableInteractionLogs": false,
   "googleAssistant": {
     "googleAssistantCompatible": true,
-    "project": "drum-tuner",
+    "project": "music-scales-2d18d",
     "welcomeIntentSignInRequired": false,
-    "startIntents": [],
+    "startIntents": [
+      {
+        "intentId": "99ff88b1-e3f1-4014-9592-4f35ad78b2da",
+        "signInRequired": false
+      },
+      {
+        "intentId": "20600531-afad-454c-980b-fabefeb89f44",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ac9c0ebe-ab62-4e78-b1df-483d3b2efaa3",
+        "signInRequired": false
+      },
+      {
+        "intentId": "7485bbda-8b6e-47ef-b773-9111b49c9d7a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "5fd6d3c9-0a91-40ae-9d91-cafc77ba1085",
+        "signInRequired": false
+      }
+    ],
     "systemIntents": [],
     "endIntentIds": [
-      "0183d8f2-1269-4d39-abb8-b86273c6d452",
-      "77b625bf-0feb-4cf5-b73e-6e893a03e29c"
+      "99ff88b1-e3f1-4014-9592-4f35ad78b2da",
+      "20600531-afad-454c-980b-fabefeb89f44",
+      "ac9c0ebe-ab62-4e78-b1df-483d3b2efaa3",
+      "6403d7a8-424a-4e75-890a-2760f06e8a21",
+      "5ebf46c9-2493-4e24-8f63-549f45202827",
+      "7485bbda-8b6e-47ef-b773-9111b49c9d7a",
+      "5fd6d3c9-0a91-40ae-9d91-cafc77ba1085"
     ],
     "oAuthLinking": {
       "required": false,
@@ -18,18 +44,19 @@
     },
     "voiceType": "MALE_1",
     "capabilities": [],
-    "protocolVersion": "V2"
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true
   },
   "defaultTimezone": "Europe/Madrid",
   "webhook": {
-    "url": "https://us-central1-drum-tuner.cloudfunctions.net/drumTuner",
+    "url": "https://us-central1-music-scales-2d18d.cloudfunctions.net/musicScales",
     "headers": {
       "": ""
     },
     "available": true,
-    "useForDomains": true,
+    "useForDomains": false,
     "cloudFunctionsEnabled": false,
-    "cloudFunctionsInitialized": true
+    "cloudFunctionsInitialized": false
   },
   "isPrivate": true,
   "customClassifierMode": "use.after",

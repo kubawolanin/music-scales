@@ -1,0 +1,211 @@
+[
+  {
+    "value": "C",
+    "synonyms": [
+      "C",
+      "B#",
+      "B hash",
+      "B sharp",
+      "see",
+      "c",
+      "c",
+      "b#",
+      "b hash",
+      "b sharp",
+      "see"
+    ]
+  },
+  {
+    "value": "D",
+    "synonyms": [
+      "D",
+      "dee",
+      "d",
+      "d",
+      "dee"
+    ]
+  },
+  {
+    "value": "E",
+    "synonyms": [
+      "E",
+      "e",
+      "e",
+      "fb",
+      "Fb",
+      "F flat",
+      "f flat"
+    ]
+  },
+  {
+    "value": "F",
+    "synonyms": [
+      "F",
+      "E sharp",
+      "E hash",
+      "f",
+      "f",
+      "e sharp",
+      "e hash",
+      "E#",
+      "E #",
+      "e #",
+      "e#"
+    ]
+  },
+  {
+    "value": "G",
+    "synonyms": [
+      "G",
+      "g",
+      "g",
+      "g",
+      "g"
+    ]
+  },
+  {
+    "value": "A",
+    "synonyms": [
+      "A",
+      "a"
+    ]
+  },
+  {
+    "value": "B",
+    "synonyms": [
+      "B",
+      "be",
+      "b",
+      "b",
+      "bee"
+    ]
+  },
+  {
+    "value": "C#",
+    "synonyms": [
+      "C#",
+      "C sharp",
+      "C hash",
+      "see sharp",
+      "c#",
+      "c#",
+      "c sharp",
+      "c hash",
+      "see sharp",
+      "C #",
+      "c #"
+    ]
+  },
+  {
+    "value": "D#",
+    "synonyms": [
+      "D#",
+      "D sharp",
+      "D hash",
+      "dee sharp",
+      "d#",
+      "d#",
+      "d sharp",
+      "d hash",
+      "dee sharp",
+      "D #",
+      "d #"
+    ]
+  },
+  {
+    "value": "F#",
+    "synonyms": [
+      "F#",
+      "F sharp",
+      "F hash",
+      "f#",
+      "f#",
+      "f sharp",
+      "f hash",
+      "F #",
+      "f #"
+    ]
+  },
+  {
+    "value": "G#",
+    "synonyms": [
+      "G#",
+      "G sharp",
+      "G hash",
+      "g#",
+      "g#",
+      "g sharp",
+      "g hash",
+      "G #",
+      "g #"
+    ]
+  },
+  {
+    "value": "A#",
+    "synonyms": [
+      "A#",
+      "A sharp",
+      "A hash",
+      "a#",
+      "a sharp",
+      "a hash",
+      "A #",
+      "a #"
+    ]
+  },
+  {
+    "value": "Cb",
+    "synonyms": [
+      "Cb",
+      "cb",
+      "C flat",
+      "c flat"
+    ]
+  },
+  {
+    "value": "Db",
+    "synonyms": [
+      "Db",
+      "db",
+      "D flat",
+      "d flat"
+    ]
+  },
+  {
+    "value": "Eb",
+    "synonyms": [
+      "Eb",
+      "eb",
+      "E flat",
+      "e flat"
+    ]
+  },
+  {
+    "value": "Gb",
+    "synonyms": [
+      "Gb",
+      "gb",
+      "G flat",
+      "g flat"
+    ]
+  },
+  {
+    "value": "Ab",
+    "synonyms": [
+      "Ab",
+      "ab",
+      "A flat",
+      "a flat"
+    ]
+  },
+  {
+    "value": "Bb",
+    "synonyms": [
+      "Bb",
+      "bb",
+      "B flat",
+      "b flat",
+      "be flat"
+    ]
+  }
+]

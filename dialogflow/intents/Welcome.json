@@ -1,5 +1,5 @@
 {
-  "id": "2ecf2164-0fe1-45e1-b29f-91210c3394d1",
+  "id": "81c89b75-490d-444a-8fc4-af326d8264de",
   "name": "Welcome",
   "auto": true,
   "contexts": [],
@@ -16,10 +16,10 @@
           "lang": "en",
           "suggestions": [
             {
-              "title": "History"
+              "title": "Intervals"
             },
             {
-              "title": "Headquarters"
+              "title": "flamenco scale in G"
             }
           ]
         },
@@ -27,10 +27,11 @@
           "type": 0,
           "lang": "en",
           "speech": [
-            "Hey! I\u0027m your personal drum tuner.",
-            "Welcome to Drum Tuner!",
-            "Drum Tuner for the win.",
-            "Let\u0027s make your drums sound awesome!"
+            "Hi! I\u0027m your personal music theory assistant. What would you like to know?",
+            "Hello! I can help you finding scales and intervals. What would you like to hear about?",
+            "Good day! I\u0027m here to help you naming intervals and scales. What are you interested in?",
+            "Greetings! I will define an interval or scale for you. What you\u0027re up to?",
+            "Hello there. I can name a scale for you, tell you the notes of the scale or name an interval. What would you like to know?"
           ]
         }
       ],

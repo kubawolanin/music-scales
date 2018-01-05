@@ -1,0 +1,405 @@
+[
+  {
+    "id": "ea44ace7-ea6e-4c3e-9ec3-d0818fd72d70",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " chord",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8233cc68-b7cc-4d2c-b06e-32b05c1f8baf",
+    "data": [
+      {
+        "text": "what\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " chord",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9858bc5-8452-4b65-a3c5-16317aa3240d",
+    "data": [
+      {
+        "text": "ab",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f#",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "56356a1c-7e6c-4c42-afeb-205bb876e359",
+    "data": [
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cde41550-89c0-43c4-8e88-4a0c338f1ed0",
+    "data": [
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "g sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6765642a-5abf-426b-959f-79446b541882",
+    "data": [
+      {
+        "text": "what\u0027s the chord containing ",
+        "userDefined": false
+      },
+      {
+        "text": "C",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "E",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "G",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "A",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f295860a-8d1a-406b-a577-8d5650681793",
+    "data": [
+      {
+        "text": "construct ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " chord from ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7636786e-1411-4ea0-8952-0f285a00d083",
+    "data": [
+      {
+        "text": "recognize the chord",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0d982197-15b7-4e6d-9827-36cfeeb61ea0",
+    "data": [
+      {
+        "text": "what\u0027s the chord containing ",
+        "userDefined": false
+      },
+      {
+        "text": "C",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "E",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "G",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "A",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aa2fa872-9075-45b8-bb3a-e8f867e9416a",
+    "data": [
+      {
+        "text": "What chord contains ",
+        "userDefined": false
+      },
+      {
+        "text": "C",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "E",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "G",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "B",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514922936
+  },
+  {
+    "id": "4b45baf6-dc1f-4a20-83ff-1d4f658ad87c",
+    "data": [
+      {
+        "text": "What\u0027s the chord",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514922936
+  }
+]

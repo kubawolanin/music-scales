@@ -1,0 +1,3022 @@
+[
+  {
+    "id": "639451dc-28b8-46e9-a21d-d23d75eeaa36",
+    "data": [
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dbfaa161-240a-4e39-8f7c-484a86ae4a61",
+    "data": [
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3c1c20d-91d3-412e-bcd9-ba8b754925f8",
+    "data": [
+      {
+        "text": "what\u0027s the scale ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "a flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "b flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "c sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "4a5a8650-f087-45e7-b94c-bdc5649ec92a",
+    "data": [
+      {
+        "text": "ask Music scales what is ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "904f725f-1671-47fe-9b99-777536ff9ea7",
+    "data": [
+      {
+        "text": "what\u0027s the scale containing ",
+        "userDefined": false
+      },
+      {
+        "text": "D",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "A",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "B flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "D",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "E",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "F",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "A",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "C",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ee40907e-f0ad-42a2-ab64-9c46def50558",
+    "data": [
+      {
+        "text": "what\u0027s the scale ",
+        "userDefined": false
+      },
+      {
+        "text": "F sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "G sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "A sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "C",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "D sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "118c77b1-d16f-46cd-b38c-53009cb0cf6d",
+    "data": [
+      {
+        "text": "detect a scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "03ba2232-614d-4737-be2c-f07f67e12883",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "D",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8bafdc40-0a1a-49a7-ab29-be4f1d05bde9",
+    "data": [
+      {
+        "text": "Ask Music Scales what\u0027s the scale ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "a flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "b flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "c sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "02d69bb9-f038-47d8-a4fe-e77d08c8c1de",
+    "data": [
+      {
+        "text": "What\u0027s the scale ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec7a3617-ef35-4902-b0f3-b392b906146f",
+    "data": [
+      {
+        "text": "recognize ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " scale from ",
+        "userDefined": false
+      },
+      {
+        "text": "g sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "08f25626-1e3d-4296-b965-8a3dbe1d47dc",
+    "data": [
+      {
+        "text": "what scale is it ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f3a89402-6d9b-4564-b93d-dc00a18b07a0",
+    "data": [
+      {
+        "text": "what scale is that ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c8c327f8-d52c-4eda-8e31-2f08bdfd74f4",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c219b82-a1ba-4182-ac3b-cf5b87ad617b",
+    "data": [
+      {
+        "text": "what\u0027s the scale ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "a flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "b flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "c sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "01e45412-c030-4084-9118-25cebf8e538c",
+    "data": [
+      {
+        "text": "what is the scale containing ",
+        "userDefined": false
+      },
+      {
+        "text": "a flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e0e7df28-3423-4bc8-90f6-adaf38c82508",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "D",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e2e2e8cf-8f02-4d67-ae78-e9bd961d7640",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "855d6575-80aa-4b89-b836-4ad29d41d603",
+    "data": [
+      {
+        "text": "ask music scales what\u0027s the scale ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "675f1385-cfbe-4b19-9dc7-3797fdd42ae2",
+    "data": [
+      {
+        "text": "what\u0027s the scale ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "85e05955-ed2f-48c5-a5ba-3369ce4aa913",
+    "data": [
+      {
+        "text": "tell me what kind of scale is ",
+        "userDefined": false
+      },
+      {
+        "text": "C",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "D",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "E",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "F#",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "G",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "A",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "B",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "C",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "367effda-5d28-405a-b254-c578f83d3c81",
+    "data": [
+      {
+        "text": "what scale is ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ad1d3eb0-96a7-4ee9-b225-3fd04802d450",
+    "data": [
+      {
+        "text": "tell me the scale name for ",
+        "userDefined": false
+      },
+      {
+        "text": "C",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "D",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "E",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "F#",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "G",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "A",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Bb",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "C",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2082b485-80a3-4888-9cda-5537b58bbb7e",
+    "data": [
+      {
+        "text": "recognize ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06ea48c8-b99f-4a3f-b651-4a1bb73e4382",
+    "data": [
+      {
+        "text": "what scale is that ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3692011e-d8f1-4823-a90b-abfa59bade1f",
+    "data": [
+      {
+        "text": "what scale is ",
+        "userDefined": false
+      },
+      {
+        "text": "C",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "D",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "E",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "F#",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "G#",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "A",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "B",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "302e3f2c-eef3-43d3-9bc4-9d0c04fcd7a0",
+    "data": [
+      {
+        "text": "recognize the scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f5f1dc4f-81e8-44f7-b2fb-d597bc2bfcfe",
+    "data": [
+      {
+        "text": "detect ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " scale from ",
+        "userDefined": false
+      },
+      {
+        "text": "f sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "205c1652-4b34-478d-ae25-b791ad3d73a3",
+    "data": [
+      {
+        "text": "detect ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68f74af2-eb89-4530-9271-34364349bb68",
+    "data": [
+      {
+        "text": "detect ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " scale from ",
+        "userDefined": false
+      },
+      {
+        "text": "f sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "37a9ac50-f2e0-4b0b-a116-d714b7a4fc9d",
+    "data": [
+      {
+        "text": "What scale contains ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa24c31d-fe1b-4813-b421-54d0a2824c19",
+    "data": [
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " what\u0027s that scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7fe7f4cc-e1b5-485f-a0cb-4ccdfe7c5a5e",
+    "data": [
+      {
+        "text": "The scale ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " 2 ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "96b4bb6c-c17f-4ba3-b577-6e11d70bb142",
+    "data": [
+      {
+        "text": "What scale is ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f#",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bb",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "49a9d592-e011-4fc5-856a-30c500e6060f",
+    "data": [
+      {
+        "text": "what mode is ",
+        "userDefined": false
+      },
+      {
+        "text": "A",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "B#",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "C#",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "D#",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "E",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "F#",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "G#",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "46834edc-e60a-4b0c-8293-a241c5acfaf9",
+    "data": [
+      {
+        "text": "what mode is ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ee950c7-9b39-4378-96c6-657dcc1502bf",
+    "data": [
+      {
+        "text": "what scale is ",
+        "userDefined": false
+      },
+      {
+        "text": "b sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f26de60f-8bd4-4c31-a2d2-86320bd08cb8",
+    "data": [
+      {
+        "text": "guess the mode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06265893-6508-4ea4-9dad-ff5323df3d38",
+    "data": [
+      {
+        "text": "Detect ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " scale from ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba19a19b-efec-4286-a21d-3ad430b1f1f9",
+    "data": [
+      {
+        "text": "Detect scale ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3cc99716-cb92-4cef-b5b1-364b4660aa95",
+    "data": [
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fc9699f5-2718-4b19-8c3d-4a8f17c569e6",
+    "data": [
+      {
+        "text": "C",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "D",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66249464-4c4f-4c5f-a78a-417579453523",
+    "data": [
+      {
+        "text": "c",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "D sharp",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b flat",
+        "alias": "notes",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

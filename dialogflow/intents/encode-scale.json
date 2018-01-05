@@ -1,0 +1,47 @@
+{
+  "id": "ac9c0ebe-ab62-4e78-b1df-483d3b2efaa3",
+  "name": "encode-scale",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "encode.scale",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fac08f02-ee21-4899-b1db-471e0ea8c86e",
+          "required": true,
+          "dataType": "@notes",
+          "name": "notes",
+          "value": "$notes",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What are the notes of this scale?"
+            }
+          ],
+          "defaultValue": "What\u0027s the first note of your scale?",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514848128,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": "7485bbda-8b6e-47ef-b773-9111b49c9d7a",
+  "name": "encode-chord",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "encode.chord",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e162a261-67f1-4cab-87d1-12cee1b63b77",
+          "required": true,
+          "dataType": "@notes",
+          "name": "notes",
+          "value": "$notes",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I need at least three notes in order to recognize a chord. What are the notes?"
+            },
+            {
+              "lang": "en",
+              "value": "At least 3 notes are needed in order to recognize a chord. What are the notes?"
+            },
+            {
+              "lang": "en",
+              "value": "What are the notes of the chord?"
+            },
+            {
+              "lang": "en",
+              "value": "What are the notes from that chord?"
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514922936,
+  "fallbackIntent": false,
+  "events": []
+}

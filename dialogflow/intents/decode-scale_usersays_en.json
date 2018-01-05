@@ -1,0 +1,1540 @@
+[
+  {
+    "id": "069327e4-fcb9-4d7f-a2b4-89fd9d241921",
+    "data": [
+      {
+        "text": "what\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "mixolydian",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": true
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94f00cc9-e30e-4b12-af3f-e481fc7523ea",
+    "data": [
+      {
+        "text": "what\u0027s a",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "D",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "aeolian",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f23ec20b-2246-4767-834a-66f0b9a9d3fa",
+    "data": [
+      {
+        "text": "tell me the notes of ",
+        "userDefined": false
+      },
+      {
+        "text": "B flat",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "phrygian",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77adec1e-acaf-497a-8e68-8b3cb9f4d651",
+    "data": [
+      {
+        "text": "what\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "mixolydian",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": true
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d224b35-b75c-4a87-bcfe-c3701bb653b1",
+    "data": [
+      {
+        "text": "flamenco",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": true
+      },
+      {
+        "text": " scale in ",
+        "userDefined": false
+      },
+      {
+        "text": "G",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2392026e-d7d6-4f27-8c14-c6a9f6a12af2",
+    "data": [
+      {
+        "text": "name a scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "701d464d-1c51-41df-8122-e5f322e98c70",
+    "data": [
+      {
+        "text": "major",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4146119-a199-49d0-a362-aebc673c9d70",
+    "data": [
+      {
+        "text": "Neapolitan Major",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1759df7b-d7e7-48ca-81e9-be31a4ef318b",
+    "data": [
+      {
+        "text": "Neapolitan Major",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "100ac412-7b62-4e20-8982-7dcb79ccf0fc",
+    "data": [
+      {
+        "text": "lydian",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": true
+      },
+      {
+        "text": " dominant sharp nine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9c9405d-e011-41dc-a211-e85bb7965104",
+    "data": [
+      {
+        "text": "lydian minor",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "F",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3794f400-8deb-4034-b9b7-8ba955ad2d8d",
+    "data": [
+      {
+        "text": "Neapolitan Major",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41d63b6d-013e-4347-b93f-9b5f4e0bf9f0",
+    "data": [
+      {
+        "text": "ludian ",
+        "userDefined": false
+      },
+      {
+        "text": "augmented",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "G",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49a8afe1-b192-410d-bee2-611a78795ec6",
+    "data": [
+      {
+        "text": "notes of ",
+        "userDefined": false
+      },
+      {
+        "text": "lydian augmented",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": true
+      },
+      {
+        "text": " scale in ",
+        "userDefined": false
+      },
+      {
+        "text": "G",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea36f7ff-17ec-4dc9-b206-6fa194375ab2",
+    "data": [
+      {
+        "text": "decode ",
+        "userDefined": false
+      },
+      {
+        "text": "mixolydian",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " seven pentatonic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "011fcd2c-2631-43f9-9116-fdca0114cb16",
+    "data": [
+      {
+        "text": "what\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "G",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "phrygian",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc06af3b-5826-40eb-9be9-0788c9ddf029",
+    "data": [
+      {
+        "text": "Ask Music scales what is ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "phrygian",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51b877c4-5a91-4294-a807-2f629eabeb9a",
+    "data": [
+      {
+        "text": "what notes are in ",
+        "userDefined": false
+      },
+      {
+        "text": "minor 7 pentatonic",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "F sharp",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "95f95c4c-7c4f-4951-a682-5ee543cec807",
+    "data": [
+      {
+        "text": "decode ",
+        "userDefined": false
+      },
+      {
+        "text": "minor seven pentatonic",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a0e525d1-87f3-4ac0-92f1-f4c843088903",
+    "data": [
+      {
+        "text": "what\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "lydian be seven",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2454cdd1-427c-48a7-9cd6-4b9fb5c629d2",
+    "data": [
+      {
+        "text": "please find me the notes of ",
+        "userDefined": false
+      },
+      {
+        "text": "lydian diminished",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " scale in ",
+        "userDefined": false
+      },
+      {
+        "text": "A",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "119b8d10-61a9-466d-9a5a-d7fcb067dd75",
+    "data": [
+      {
+        "text": "tell me the notes of ",
+        "userDefined": false
+      },
+      {
+        "text": "G flat",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mixolydian",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6751653e-4771-4e9c-9df0-d15ce00c2efe",
+    "data": [
+      {
+        "text": "what\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "lydian",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "35f290f7-25ad-4b29-bc0e-5daa3252cce6",
+    "data": [
+      {
+        "text": "what\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "g sharp",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lydian ninth",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5644b5b3-934a-435f-ba31-9a8ae6558233",
+    "data": [
+      {
+        "text": "what notes are in ",
+        "userDefined": false
+      },
+      {
+        "text": "lydian dominant sharp nine",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5906cc0c-f301-4370-88ee-6355ee69916d",
+    "data": [
+      {
+        "text": "lydian dominant sharp nine",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d4f2102-6dd8-472d-badc-1ec8728a4b60",
+    "data": [
+      {
+        "text": "Neapolitan Major",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4963af22-ba74-4265-8979-9fbfcb25bfee",
+    "data": [
+      {
+        "text": "the notes of ",
+        "userDefined": false
+      },
+      {
+        "text": "lydian augmented",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " scale in ",
+        "userDefined": false
+      },
+      {
+        "text": "G",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68b09aa3-c004-415e-b98d-62ec6d3aa3d6",
+    "data": [
+      {
+        "text": "tell me the notes of ",
+        "userDefined": false
+      },
+      {
+        "text": "B flat",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "phrygian",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f1102d8b-4a0d-45fd-b618-cfc85035660a",
+    "data": [
+      {
+        "text": "show ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "B",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "minor harmonic",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d76865dc-bfb3-486a-834a-172bdb2edbba",
+    "data": [
+      {
+        "text": "what\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "enigmatic",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " scale of ",
+        "userDefined": false
+      },
+      {
+        "text": "B",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6dd8e912-b538-4357-ba21-8dea902435a5",
+    "data": [
+      {
+        "text": "notes of ",
+        "userDefined": false
+      },
+      {
+        "text": "prometheus",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64d8b48f-cefc-4bf1-97d5-b20dd5ce0647",
+    "data": [
+      {
+        "text": "what notes are in ",
+        "userDefined": false
+      },
+      {
+        "text": "kumoijoshi",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9fc94809-f6a2-4413-9d7f-8765d13983cf",
+    "data": [
+      {
+        "text": "ionian pentatonic",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "G flat",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee696ba5-90e3-4ffd-b56e-41b68bac36f2",
+    "data": [
+      {
+        "text": "blues",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "F",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "04b4f086-7157-4db5-afcc-53e1e684f994",
+    "data": [
+      {
+        "text": "pitch classes of ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "76a8d074-b371-4800-becc-1485215dd659",
+    "data": [
+      {
+        "text": "Get the notes of ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63b22d22-7f4a-45e6-9ba4-205227e3ac7a",
+    "data": [
+      {
+        "text": "scale detection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b560ae57-d11d-40a4-9701-00568debbe11",
+    "data": [
+      {
+        "text": "detect scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "12ccea0c-f946-4715-9f49-62a1e42986df",
+    "data": [
+      {
+        "text": "detect ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b27bd3e0-3048-4ba6-8e87-ad8827afa17b",
+    "data": [
+      {
+        "text": "name ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " scale for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3033729c-8cbd-4828-a0a2-ddc0fcbf1b81",
+    "data": [
+      {
+        "text": "name the scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "33e3228c-2fb9-425e-9b86-e99a6646d14c",
+    "data": [
+      {
+        "text": "d sharp",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "harmonic minor",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "97346cc7-aad6-42a0-89a4-4e8c725c00a4",
+    "data": [
+      {
+        "text": "b flat",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "harmonic major",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ce1c4c10-9bc1-43e8-913e-21fb208ea67b",
+    "data": [
+      {
+        "text": "double harmonic major",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " of note ",
+        "userDefined": false
+      },
+      {
+        "text": "F",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "671c87ce-aae7-4f27-af32-746f73f033eb",
+    "data": [
+      {
+        "text": "d",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "egyptian",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b7fa0be6-f76b-4d32-88e9-270e51fdcba0",
+    "data": [
+      {
+        "text": "see sharp",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hungarian major",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3fe5e371-acc8-4f83-b1d2-b59a8904de9f",
+    "data": [
+      {
+        "text": "c",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "oriental",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "77cbf7ab-9ffa-490b-8f73-0b258e72754e",
+    "data": [
+      {
+        "text": "notes of ",
+        "userDefined": false
+      },
+      {
+        "text": "spanish",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd29d1a2-29e3-4fc0-a4f7-ec972d19d15b",
+    "data": [
+      {
+        "text": "notes of ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "spanish heptatonic",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79855d5f-31f1-492e-a80c-3c46fa3a1516",
+    "data": [
+      {
+        "text": "tell me the notes of ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "minor six diminished",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "711a6530-ef99-47cc-be2c-83c43a9fe0f8",
+    "data": [
+      {
+        "text": "what\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "a flat",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ionian augmented",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b5eea29c-5cf2-4c18-bb11-aab74e06290c",
+    "data": [
+      {
+        "text": "g sharp",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lydian #9",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "549ff59b-7e03-4886-90ed-900575531212",
+    "data": [
+      {
+        "text": "e flat",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ichikosucho",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dff98cfb-f396-4855-8d9e-a7e7f49d3c91",
+    "data": [
+      {
+        "text": "e sharp",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "six tone symmetric",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "172049ad-ad13-4b48-aedd-ebc3e5fdd9d9",
+    "data": [
+      {
+        "text": "c flat",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "minor six diminished",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1811f6af-6570-4a7e-9e2d-a86ed6296b15",
+    "data": [
+      {
+        "text": "g flat",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bebop",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f117bc7-48bb-4b37-8bb9-13613afe74c3",
+    "data": [
+      {
+        "text": "f sharp",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "minor",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": true
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b10f2c3-cddf-41ff-82d0-82f420e42d4d",
+    "data": [
+      {
+        "text": "F",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "minor",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "78f6fcaa-ca17-4100-b8db-bce814e70f93",
+    "data": [
+      {
+        "text": "C",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "major",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83547b04-60bc-4973-a03b-7c11d19a0432",
+    "data": [
+      {
+        "text": "see",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mixolydian",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "419710ae-bebc-4a37-b97e-deffa735897c",
+    "data": [
+      {
+        "text": "c",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lydian",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "81ee1b2b-69d1-438e-ad15-5a55e1431dd1",
+    "data": [
+      {
+        "text": "Flamenco",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " scale in ",
+        "userDefined": false
+      },
+      {
+        "text": "d sharp",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "242e2e8d-c706-45b0-b8fc-2aec4280346a",
+    "data": [
+      {
+        "text": "minor #7M pentatonic",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d9c9fee6-8df1-4791-b48f-3c7a3430e256",
+    "data": [
+      {
+        "text": "What\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "six tone symmetric",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " scale from ",
+        "userDefined": false
+      },
+      {
+        "text": "F",
+        "alias": "root-note",
+        "meta": "@notes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5677bf7e-38cc-4b33-813f-873c45eb244f",
+    "data": [
+      {
+        "text": "bebop locrian",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "60b0d3c0-1292-42a5-b2d4-3100643d7974",
+    "data": [
+      {
+        "text": "tell me the notes of ",
+        "userDefined": false
+      },
+      {
+        "text": "augmented",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3275c9e6-4d6f-4e93-a6d7-af58b6fea7ff",
+    "data": [
+      {
+        "text": "what are the notes in ",
+        "userDefined": false
+      },
+      {
+        "text": "phrygian",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91743a05-bc88-4a83-aa76-ded425b0ec68",
+    "data": [
+      {
+        "text": "what\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "mixolydian",
+        "alias": "scale",
+        "meta": "@scales",
+        "userDefined": true
+      },
+      {
+        "text": " scale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514828998
+  }
+]

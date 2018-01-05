@@ -1,0 +1,68 @@
+{
+  "id": "99ff88b1-e3f1-4014-9592-4f35ad78b2da",
+  "name": "decode-scale",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "decode.scale",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bd28c36e-c39d-4a01-b614-0d955056dbd5",
+          "required": true,
+          "dataType": "@scales",
+          "name": "scale",
+          "value": "$scale",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the scale name?"
+            },
+            {
+              "lang": "en",
+              "value": "How is the scale called?"
+            },
+            {
+              "lang": "en",
+              "value": "I need to know the scale name in order to give you the notes. How is it called?"
+            },
+            {
+              "lang": "en",
+              "value": "First, you need to tell me the name of your scale. How is it called?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "fa67bc39-6d9c-4562-8226-8f9a669712a5",
+          "required": false,
+          "dataType": "@notes",
+          "name": "root-note",
+          "value": "$root-note",
+          "prompts": [],
+          "defaultValue": "C",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514828998,
+  "fallbackIntent": false,
+  "events": []
+}

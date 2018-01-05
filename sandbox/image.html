@@ -1,56 +1,122 @@
 <!DOCTYPE html>
 <html>
 
-<body>
+  <body>
 
+    <h1 id="d"></h1>
     <div id="svg"></div>
 
+
     <script src="../functions/node_modules/vexflow/releases/vexflow-debug.js"></script>
+    <script src="../functions/node_modules/tonal/build/transpiled.js"></script>
     <script>
-        VF = Vex.Flow;
+      // Prepare the input
 
-        var div = document.getElementById('svg');
-        var renderer = new Vex.Flow.Renderer(div, Vex.Flow.Renderer.Backends.SVG);
-        renderer.resize(800, 396);
-        var context = renderer.getContext();
+      const input = 'd f# e'.trim().split(' ');
+      const isChord = true;
 
-        var stave = new VF.Stave(10, 40, 400);
+      const intervals = input.map(Tonal.interval(input[0]));
+      const scale = intervals.map(Tonal.transpose(`${input[0]}4`));
 
-        // Add a clef and time signature.
-        stave.addClef("treble").addTimeSignature("4/4");
+      if (!isChord) {
+        // Add ending note 12 tones higher
+        const octave = Tonal.transpose(scale[0], '8P');
+        if (scale[0] !== scale[scale.length - 1]) {
+          scale.push(octave);
+        } else {
+          scale[scale.length - 1] = octave;
+        }
+      }
 
-        // Connect it to the rendering context and draw!
-        stave.setContext(context).draw();
+      VF = Vex.Flow;
 
-        var notes = [
-        new VF.StaveNote({clef: "treble", keys: ["c/5"], duration: "q" }),
-        new VF.StaveNote({clef: "treble", keys: ["d/4"], duration: "q" }),
-        new VF.StaveNote({clef: "treble", keys: ["b/4"], duration: "qr" }),
-        new VF.StaveNote({clef: "treble", keys: ["c/4", "e/4", "g/4"], duration: "q" })
-        ];
+      var div = document.getElementById('svg');
+      var renderer = new Vex.Flow.Renderer(div, Vex.Flow.Renderer.Backends.SVG);
+      renderer.resize(800, 396);
+      const staveWidth = 350;
+      var context = renderer.getContext();
+      var stave = new VF.Stave(15, 40, staveWidth);
 
-        var notes2 = [
-        new VF.StaveNote({clef: "treble", keys: ["c/4"], duration: "w" })
-        ];
+      context.scale(2, 2);
 
-        // Create a voice in 4/4 and add above notes
-        var voices = [
-            new VF.Voice({num_beats: 4,  beat_value: 4}).addTickables(notes),
-            new VF.Voice({num_beats: 4,  beat_value: 4}).addTickables(notes2)]
+      stave.addClef("treble");
+      stave.setContext(context).draw();
 
-        // Format and justify the notes to 400 pixels.
-        var formatter = new VF.Formatter().joinVoices(voices).format(voices, 400);
+      const beat = [1, 2, 4, 8, 16, 32, 64];
+      const goal = isChord ? 1 : scale.length;
+      const duration = beat.reduce(function(prev, curr) {
+        return (Math.abs(curr - goal) < Math.abs(prev - goal) ? curr : prev);
+      });
 
-        // Render voices
-        voices.forEach(function(v) { v.draw(context, stave); });
+      const arpeggio = scale.map(note => {
+        const token = Tonal.Note.tokenize(note)
+        const stave = new VF.StaveNote({
+          clef: "treble",
+          keys: [token[0].toLowerCase() + '/' + token[2]],
+          duration: `${duration}`
+        });
+
+        if (token[1]) {
+          stave.addAccidental(0, new VF.Accidental(token[1]));
+        }
+
+        return stave;
+      });
+
+      const chord = () => {
+        let accidentals = scale.map(note => Tonal.Note.tokenize(note)[1]);
+        const notes = scale.map(note => {
+          const token = Tonal.Note.tokenize(note);
+          return token[0].toLowerCase() + '/' + token[2];
+        })
+
+        const stave = new VF.StaveNote({
+          clef: "treble",
+          keys: notes,
+          duration: `${duration}`
+        });
+
+        accidentals.forEach((accidental, index) => {
+          if (accidental) {
+            stave.addAccidental(index, new VF.Accidental(accidental));
+          }
+        });
+
+        return [stave];
+      };
+
+      var notes = isChord ? chord() : arpeggio;
+
+      // Fit everything in one bar
+      new Vex.Flow.Tuplet(notes, {
+        num_notes: isChord ? 1 : notes.length,
+        notes_occupied: duration
+      });
+
+      // Create a voice in 4/4 and add above notes
+      var voices = [
+        new VF.Voice({
+          num_beats: 4,
+          beat_value: 4
+        }).addTickables(notes)
+      ];
+      // Format and justify the notes to 400 pixels.
+      var formatter = new VF.Formatter()
+        .joinVoices(voices)
+        .format(voices, staveWidth - 50);
+
+      // Render voices
+      voices.forEach(function(v) {
+        v.draw(context, stave);
+      });
 
 
-        const svg = document.querySelector('svg');
-        svg.setAttribute('width', '100%');
-        svg.setAttribute('height', '100%');
-        svg.setAttribute('viewBox', '0 0 800 396'); // TODO:
-        svg.setAttribute('preserveAspectRatio', 'xMidYMid');
+      const svg = document.querySelector('svg');
+      // svg.setAttribute('width', '100%');
+      // svg.setAttribute('height', '100%');
+      // svg.setAttribute('viewBox', '0 0 800 396'); // TODO:
+      // svg.setAttribute('preserveAspectRatio', 'xMidYMid');
     </script>
-</body>
+  </body>
 
 </html>
