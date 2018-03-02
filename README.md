@@ -1,6 +1,6 @@
 # Music Scales for Google Assistant
 
-Music Scales is a Google Assistant action that's knows a lot about music theory.
+Music Scales is a Google Assistant action that knows a lot about music theory.
 Its features include:
 
 * Recognizing a scale from name (*Ask Music Scales what's G phrygian scale*)
